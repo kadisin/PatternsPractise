@@ -7,8 +7,10 @@
 <h1> Pattern Practise </h1>
 <p />
 <h3>Paragraphs</h3>
-<li>Facade/li>
+<li>Facade</li>
 <li>Adapter</li>
+<li>Singleton</li>
+
 
  <h3> Facade </h3>
  <p> Facade is pattern to manage subsystems </p>
@@ -27,6 +29,14 @@
  <p>public JsonData XmlToJsonConvert(XmlData data)</p>
 
  ![image](https://github.com/kadisin/PatternsPractise/assets/38622355/eb61392e-c24b-4b10-87f8-0e46e2ea7507)
+
+
+<h3> Singleton </h3>
+<p>Singleton is pattern to have only one instance of object in global use</p>
+<p>Example is object to communication with database</p>
+
+
+![image](https://github.com/kadisin/PatternsPractise/assets/38622355/e2f8ef60-1b2d-42ab-9976-735f573b002f)
 
 
  
