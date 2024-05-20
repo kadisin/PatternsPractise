@@ -9,6 +9,7 @@
 <h3>Paragraphs</h3>
 <li>Facade</li>
 <li>Adapter</li>
+<li>Builder</li>
 <li>Singleton</li>
 
 
@@ -29,6 +30,16 @@
  <p>public JsonData XmlToJsonConvert(XmlData data)</p>
 
  ![image](https://github.com/kadisin/PatternsPractise/assets/38622355/eb61392e-c24b-4b10-87f8-0e46e2ea7507)
+
+
+<h3>Builder</h3>
+<p>Builder pattern is used to create instances with diffrent configurations</p>
+<p>In example we could build home with any combination of parameters: Garage, Garden and Swimming Pool</p>
+
+
+![image](https://github.com/kadisin/PatternsPractise/assets/38622355/29f6bde6-15c3-4500-b9c2-2f1e9e8efb0d)
+
+
 
 
 <h3> Singleton </h3>
